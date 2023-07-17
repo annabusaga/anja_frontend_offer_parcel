@@ -1,8 +1,24 @@
+.benefits-background {
+  background-color: var(--dark-background-color);
+}
+
 .benefits-list {
 }
 .benefits-item {
 }
 .benefits-title {
+  color: var(--white-main-color);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
 }
+
 .benefits-text {
+  color: rgba(255, 255, 255, 0.7);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.28px;
 }

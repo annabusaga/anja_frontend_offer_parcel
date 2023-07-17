@@ -1,4 +1,18 @@
 .ingredients-title {
+  color: var(--dark-main-color);
+  text-align: center;
+
+  font-size: 20px;
+
+  font-weight: 600;
+  line-height: 1.2; /* 120% */
+}
+
+.orange-title {
+  color: var(--color-accent);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
 }
 .ingredients-text {
 }
