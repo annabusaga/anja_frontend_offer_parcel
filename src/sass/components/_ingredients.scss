@@ -9,14 +9,6 @@
   text-transform: uppercase;
 }
 
-.orange-title {
-  color: var(--accent-color);
-  font-size: 20px;
-  font-weight: 600;
-  line-height: 1.2;
-  text-transform: uppercase;
-}
-
 .ingredients-text {
   color: var(--dark-main-color);
   text-align: center;
@@ -27,11 +19,16 @@
   list-style: none;
 }
 
-.milk {
-  background-color: var(--accent-color);
-  width: 335px;
+.ingredients-white-text {
+  color: var(--white-main-color);
+  font-weight: 600;
+  line-height: calc(18 / 14);
+  text-transform: uppercase;
 }
 
-.ingredients-image {
-  width: 224px;
+.ingredients-dark-text {
+  color: var(--dark-main-color);
+  font-weight: 600;
+  line-height: calc(18 / 16);
+  text-transform: uppercase;
 }
