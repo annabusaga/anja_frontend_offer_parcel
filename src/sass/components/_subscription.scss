@@ -1,6 +1,21 @@
 .subscription-title {
+  color: var(--white-main-color);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: calc(24 / 20);
+  text-transform: uppercase;
 }
 .subscription-text {
+  color: var(--white-main-color);
+  text-align: center;
+  line-height: calc(18 / 14);
 }
 .subscription-button {
+  border-radius: 100px;
+  background: var(--accent-color);
+  color: var(--white-main-color);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 600;
 }

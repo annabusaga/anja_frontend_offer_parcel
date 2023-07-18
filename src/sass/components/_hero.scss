@@ -1,13 +1,42 @@
 .hero-background {
   background-image: url(../images/background/main-chocolate.jpg);
+  width: 335px;
+  height: 621px;
 }
 .hero-title {
+  color: var(--white-main-color);
   font-size: 20px;
+  font-style: normal;
   font-weight: 500;
-  line-height: 1.2;
+  line-height: calc(24 / 20);
 }
 
 .hero-link {
+  color: var(--white-main-color);
+  font-family: inherit;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: 600;
 }
 .hero-text {
+}
+
+.hero-button {
+  border-radius: 100px;
+  background-color: var(--accent-color);
+  color: var(--white-main-color);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.scroll-down {
+  color: var(--white-main-color);
+  font-family: inherit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: calc(14 / 12);
 }

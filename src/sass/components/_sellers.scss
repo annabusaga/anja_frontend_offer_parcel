@@ -1,6 +1,21 @@
-.rewiews-title {
+.container {
 }
-.rewiews-text {
+.sellers-title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: calc(24 / 20);
+  text-transform: uppercase;
 }
-.rewiews-button {
+.accent-color {
+}
+.sellers-text {
+  font-weight: 400;
+  line-height: calc(18 / 14);
+}
+.sellers-button {
+  border-radius: 100px;
+  background: var(--accent-color);
+  color: var(--white-main-color);
+  font-weight: 600;
 }
