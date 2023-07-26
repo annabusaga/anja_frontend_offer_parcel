@@ -11,22 +11,20 @@
   line-height: calc(18 / 14) 18px;
 }
 .footer-adress {
+  font-style: normal;
 }
 .footer-number {
   color: var(--white-main-color);
   text-align: center;
-  font-family: inherit;
-  font-size: inherit;
-  font-style: normal;
+
   line-height: calc(18 / 14);
 }
 .footer-mail {
   color: var(--white-main-color);
   text-align: center;
-  font-family: inherit;
-  font-size: inherit;
+
   font-weight: 400;
-  font-style: normal;
+
   line-height: calc(18 / 14);
 }
 .footer-nav {
@@ -38,9 +36,7 @@
 }
 .footer-link {
   color: var(--white-main-color);
-  font-family: inherit;
-  font-size: inherit;
-  font-style: normal;
+
   font-weight: 500;
   line-height: calc(16 / 14); /* 114.286% */
 }
