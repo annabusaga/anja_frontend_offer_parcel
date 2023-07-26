@@ -1,11 +1,9 @@
 .ingredients-title {
   color: var(--dark-main-color);
   text-align: center;
-
   font-size: 20px;
-
   font-weight: 600;
-  line-height: 1.2;
+  line-height: calc(24 / 20);
   text-transform: uppercase;
 }
 

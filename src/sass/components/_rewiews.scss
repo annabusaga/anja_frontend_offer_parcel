@@ -26,10 +26,13 @@
 }
 .reviews-button {
   color: var(--black-main-color);
+  font-family: inherit;
+  font-size: inherit;
   text-align: center;
   font-weight: 600;
   border-radius: 100px;
   border: 1px solid var(--accent-color);
+  line-height: normal;
 }
 
 .reviews-container {

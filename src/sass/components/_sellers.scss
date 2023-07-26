@@ -10,11 +10,12 @@
 .accent-color {
 }
 .sellers-text {
-  font-weight: 400;
   line-height: calc(18 / 14);
 }
 .sellers-button {
   border-radius: 100px;
+  font-size: inherit;
+  font-family: inherit;
   background: var(--accent-color);
   color: var(--white-main-color);
   font-weight: 600;
